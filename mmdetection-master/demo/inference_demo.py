@@ -16,7 +16,7 @@ model = init_detector(config_file, checkpoint_file, device='cpu')
 #%%
 
 # test a single image
-img = 'demo2.jpg'
+img = 'demo.jpg'
 result = inference_detector(model, img)
 
 #%%

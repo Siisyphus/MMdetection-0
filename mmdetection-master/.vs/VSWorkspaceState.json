@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.circleci",
+    "\\.dev_scripts",
+    "\\.github",
+    "\\configs",
+    "\\configs\\ddod",
+    "\\demo"
+  ],
+  "PreviewInSolutionExplorer": false
+}
